@@ -43,6 +43,15 @@ header p {
     font-size: 1.1rem;
 }
 
+.profile-photo {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 5px solid #60a5fa;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
 /* ===================================
    HEADER BUTTONS
 =================================== */
