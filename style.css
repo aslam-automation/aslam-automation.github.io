@@ -44,6 +44,31 @@ header p {
 }
 
 /* ===================================
+   HEADER BUTTONS
+=================================== */
+
+.header-buttons {
+    margin-top: 25px;
+}
+
+.header-buttons a {
+    display: inline-block;
+    background-color: white;
+    color: #2563eb;
+    padding: 12px 20px;
+    margin: 5px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+.header-buttons a:hover {
+    background-color: #e5e7eb;
+    transform: translateY(-2px);
+}
+
+/* ===================================
    SECTION CARDS
 =================================== */
 
