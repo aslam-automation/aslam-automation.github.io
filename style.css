@@ -162,6 +162,8 @@ li {
 
 .project a:hover {
     background-color: #1d4ed8;
+    color: white;
+    text-decoration: none;
 }
 
 /* ===================================
